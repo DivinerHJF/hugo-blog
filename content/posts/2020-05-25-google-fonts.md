@@ -5,7 +5,6 @@ categories: 技术
 tags:
     - blog
     - font
-type: "home"
 mathjax: false
 codes: [html,]
 comments: true
