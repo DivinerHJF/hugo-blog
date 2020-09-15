@@ -28,9 +28,8 @@
     "preserveTaxonomyNames": true,
 
     "NavItems": [
-      ["荐读", "/"],
+      ["导览", "/"],
       ["归档", "/posts"],
-      ["作品", "/pages/gallery"],
       ["关于", "/pages/about"],
       ["订阅", "/index.xml", "_blank"]
     ],
