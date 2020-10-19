@@ -21,8 +21,6 @@ vertical: false
 - [PopPlayer](https://daumpotplayer.com/download/) —— 功能强大的媒体播放器，支持多种格式，强大的内置硬件加速解码器
 - [ScreenToGif](https://www.screentogif.com/?l=zh_cn) —— 开源免费的 gif 录屏工具，快速录制屏幕上的指定区域，将其保存为 GIF 文件
 
-<!--more-->
-
 ## 编程写作
 
 - ~~[Atom](https://atom.io/) —— 由 GitHub 开发的开源文本编辑器，支持 Node.js 插件，内置 Git 版本控制系统~~

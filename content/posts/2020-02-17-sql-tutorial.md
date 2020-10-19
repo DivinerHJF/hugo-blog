@@ -18,8 +18,6 @@ SQL（Structured Query Language）是「结构化查询语言」，它是对关�
 - **DML - Data Manipulation Language**：数据操作语言，用来定义数据库记录；<u>Insert/delete/update</u>
 - **DCL - Data Control Language**：数据控制语言，用来定义访问权限和安全级别；
 
-<!--more-->
-
 ## DQL：数据查询语言
 
 ```sql
