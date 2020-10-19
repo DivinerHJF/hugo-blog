@@ -5,18 +5,11 @@ categories: 技术
 tags:
     - Google通讯录
     - 黄页
-	- 联系人
+	  - 联系人
 mathjax: false
 comments: true
 vertical: false
 ---
-
-
-
-导入常用联系人及其头像，优化来电、信息界面体验。
-
-
-
 
 
 ## 目标：导入常用联系人及其头像，优化来电、信息界面体验。
