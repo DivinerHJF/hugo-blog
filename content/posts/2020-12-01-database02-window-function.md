@@ -1,13 +1,13 @@
 ---
 title: "数据库漫游 02 - 窗口函数篇"
-date: 2021-12-01T13:37:44+08:00
+date: 2020-12-01T13:37:44+08:00
 categories: 数据库漫游
 tags:
     - 技术
+    - 窗口函数
     - 数据库
-    - Python
 mathjax: false
-codes: [sql, text, ]
+codes: [sql]
 comments: true
 vertical: false
 ---
