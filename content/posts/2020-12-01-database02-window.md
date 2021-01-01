@@ -4,10 +4,10 @@ date: 2021-12-01T13:37:44+08:00
 categories: 数据库漫游
 tags:
     - 技术
-    - 窗口函数
     - 数据库
+    - Python
 mathjax: false
-codes: [sql]
+codes: [sql, text, ]
 comments: true
 vertical: false
 ---
