@@ -1,7 +1,7 @@
 ---
 title: "win10 利器 - 自用软件记录"
 date: 2020-03-21T14:58:10+08:00
-categories: 君子善器
+categories: 江湖百晓生
 tags:
     - 生活
     - win10

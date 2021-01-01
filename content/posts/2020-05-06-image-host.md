@@ -1,7 +1,7 @@
 ---
 title: "快捷三式 - Markdown 图床工作流"
 date: 2020-05-06T07:19:42+08:00
-categories: 智能操作流
+categories: 江湖百晓生
 tags:
   - 技术
   - win10

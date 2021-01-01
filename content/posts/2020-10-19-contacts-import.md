@@ -1,7 +1,7 @@
 ---
 title: "将中国黄页导入 Google 通讯录"
 date: 2020-10-19T16:14:03+08:00
-categories: 智能操作流
+categories: 江湖百晓生
 tags:
     - 技术
     - Google通讯录
