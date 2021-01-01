@@ -7,7 +7,7 @@ tags:
     - 窗口函数
     - 数据库
 mathjax: false
-codes: [sql,]
+codes: [sql]
 comments: true
 vertical: false
 ---
