@@ -1,10 +1,10 @@
 ---
-title: "数据库漫游指南 - SQL"
+title: "数据库漫游指南 01 - SQL 语法篇"
 date: 2020-02-17T22:28:47+08:00
 categories: 技术
 tags:
     - SQL
-    - Database
+    - 数据库
 mathjax: false
 codes: [sql,]
 comments: true
@@ -107,7 +107,7 @@ WHERE column_name BETWEEN value1 AND value2;
 
 ### HAVING - 分组筛选
 
-在 SQL 中增加 `HAVING` 子句原因是，``WHERE` 关键字无法与聚合函数 `GROUP BY` 一起使用。`HAVING` 子句可以让我们筛选分组后的各组数据。
+在 SQL 中增加 `HAVING` 子句原因是，`WHERE` 关键字无法与聚合函数 `GROUP BY` 一起使用。`HAVING` 子句可以让我们筛选分组后的各组数据。
 
 ```sql
 SELECT column_name, aggregate_function(column_name)
