@@ -1,8 +1,9 @@
 ---
-title: "Python 漫游指南 - 数据库"
-date: 2020-02-16T15:19:59+08:00
-categories: 技术
+title: "数据库漫游 03 - Python 操控指南"
+date: 2020-12-02-T15:19:59+08:00
+categories: 数据库漫游
 tags:
+    - 技术
     - 数据库
     - Python
 mathjax: false

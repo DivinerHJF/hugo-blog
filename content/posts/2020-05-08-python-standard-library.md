@@ -1,8 +1,9 @@
 ---
 title: "Python 标准库之我见"
 date: 2020-05-18T00:20:31+08:00
-categories: 技术
+categories: 编程面面观
 tags:
+    - 技术
     - python
     - Python 标准库
 mathjax: false

@@ -1,8 +1,9 @@
 ---
 title: "数据库漫游 01 - SQL 语法篇"
 date: 2020-02-17T22:28:47+08:00
-categories: 技术
+categories: 数据库漫游
 tags:
+    - 技术
     - SQL
     - 数据库
 mathjax: false

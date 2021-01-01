@@ -1,8 +1,9 @@
 ---
 title: "数据库漫游 02 - 窗口函数篇"
 date: 2021-01-01T13:37:44+08:00
-categories: 技术
+categories: 数据库漫游
 tags:
+    - 技术
     - 窗口函数
     - 数据库
 mathjax: false
