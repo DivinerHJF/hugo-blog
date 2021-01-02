@@ -1,5 +1,5 @@
 ---
-title: "数据库笔记 03 - Python 操控指南"
+title: "数据库笔记 04 - Python 操控指南"
 date: 2020-12-02T15:19:59+08:00
 categories: 数据库漫游
 tags:
