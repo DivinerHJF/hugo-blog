@@ -1,7 +1,7 @@
 ---
 title: "stargazer：R 语言输出统计表"
 date: 2018-10-30T16:20:03+08:00
-categories: 编程面面观
+categories: 数据报告单
 tags: 
     - 技术
     - R

@@ -1,7 +1,7 @@
 ---
 title: "R Markdown: 数据报告生成利器"
 date: 2018-07-09T22:44:09+08:00
-categories: 编程面面观
+categories: 数据报告单
 tags:
     - 技术
     - R Markdown
